@@ -10,8 +10,8 @@
 # You can ignore this file in git using the following command:
 #   git update-index --assume-unchanged shopify_settings.py
 import os
-SHOPIFY_API_KEY = os.environ.get('SHOPIFY_API_KEY')
-SHOPIFY_API_SECRET = os.environ.get('SHOPIFY_API_SECRET')
+SHOPIFY_API_KEY = os.environ.get('7ec628eb50ee388f56306e7e75a92192')
+SHOPIFY_API_SECRET = os.environ.get('54efc6c1d75dcbf1207f0ff6a24df04e')
 
 # See http://api.shopify.com/authentication.html for available scopes
 # to determine the permisssions your app will need.
